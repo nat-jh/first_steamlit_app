@@ -1,4 +1,9 @@
 
-import streamlit
+import streamlit as st
 
-streamlit.title('hey Jack')
+st.title('hey Jack')
+
+st.header("will you get me coffee")
+ 
+# Subheader
+st.subheader("please")
