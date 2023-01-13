@@ -1,9 +1,6 @@
 
-import streamlit as st
-
-st.title('hey Jack')
-
-st.header("will you get me coffee")
- 
-# Subheader
-st.subheader("please")
+import streamlit 
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
